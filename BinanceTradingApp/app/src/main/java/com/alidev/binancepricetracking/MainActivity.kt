@@ -18,7 +18,7 @@ import androidx.navigation.compose.*
 import androidx.navigation.navArgument
 import com.alidev.binancepricetracking.screens.MainScreenCompose
 import com.alidev.binancepricetracking.tickers.EnterTransition
-import com.alidev.binancepricetracking.ui.theme.BinancePriceTrackingTheme
+import com.alidev.binancepricetracking.theme.BinancePriceTrackingTheme
 import com.cuongtd.cryptotracking.ui.OrderBookScreenCompose
 import com.alidev.binancepricetracking.viewmodels.TickersViewModel
 

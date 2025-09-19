@@ -1,4 +1,4 @@
-package com.alidev.binancepricetracking.ui.theme
+package com.alidev.binancepricetracking.theme
 
 
 import androidx.compose.material3.Shapes
